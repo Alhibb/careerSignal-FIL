@@ -129,10 +129,10 @@ This project is proudly open-source and dual-licensed under the **[MIT License](
 
 ## 👥 Meet The Team
 
-*   **Naim Hussain** ([@Husteem](https://github.com/NaimHussain)) - *Blockchain Architect*
+*   **Naim Hussain** ([@Husteem](https://github.com/Husteem)) - *Blockchain Architect*
 *   **Ibrahim Rabiu** ([@alhibb](https://github.com/alhibb)) - *Full-Stack Web3 Innovator*
-*   **Biu Ali Dauda** ([@alidauda](https://github.com/AliDauda14)) - *Full-Stack & AI Specialist*
-*   **Muhammad Hamza** ([@Hamza1610](https://github.com/hamzadev-CODES)) - *AI & Web3 Trailblazer*
+*   **Biu Ali Dauda** ([@alidauda](https://github.com/alidauda)) - *Full-Stack & AI Specialist*
+*   **Muhammad Hamza** ([@Hamza1610](https://github.com/Hamza1610)) - *AI & Web3 Trailblazer*
 
 ---
 <p align="center">
