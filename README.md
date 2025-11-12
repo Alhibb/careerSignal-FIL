@@ -1,4 +1,4 @@
-# CareerSignal On-Chain  सिग्नल
+# CareerSignal On-Chain 
 
 <p align="center">
   <strong>Your Career, Verified. Your Data, Yours.</strong>
@@ -129,10 +129,10 @@ This project is proudly open-source and dual-licensed under the **[MIT License](
 
 ## 👥 Meet The Team
 
-*   **Naim Hussain** ([@NaimHussain](https://github.com/NaimHussain)) - *Blockchain Architect*
+*   **Naim Hussain** ([@Husteem](https://github.com/NaimHussain)) - *Blockchain Architect*
 *   **Ibrahim Rabiu** ([@alhibb](https://github.com/alhibb)) - *Full-Stack Web3 Innovator*
-*   **Biu Ali Dauda** ([@AliDauda14](https://github.com/AliDauda14)) - *Full-Stack & AI Specialist*
-*   **Muhammad Hamza** ([@hamzadev-CODES](https://github.com/hamzadev-CODES)) - *AI & Web3 Trailblazer*
+*   **Biu Ali Dauda** ([@alidauda](https://github.com/AliDauda14)) - *Full-Stack & AI Specialist*
+*   **Muhammad Hamza** ([@Hamza1610](https://github.com/hamzadev-CODES)) - *AI & Web3 Trailblazer*
 
 ---
 <p align="center">
