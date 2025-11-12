@@ -1,4 +1,4 @@
-# CareerSignal On-Chain 
+# CareerSignal On-Chain  सिग्नल
 
 <p align="center">
   <strong>Your Career, Verified. Your Data, Yours.</strong>
@@ -104,43 +104,37 @@ Our initial development is focused on delivering a powerful MVP within 30 days, 
 git clone https://github.com/alhibb/careerSignal-FIL.git
 cd careerSignal-FIL
 npm install
-Running the App (Coming Soon)
-code
-Bash
-download
-content_copy
-expand_less
+```
+
+### Running the App (Coming Soon)
+```bash
 npm run dev
-🤝 How to Contribute
+```
+
+## 🤝 How to Contribute
 
 We are excited to build CareerSignal with the community! Once development begins, we will welcome contributions of all kinds.
 
-Fork the repository.
+1.  **Fork** the repository.
+2.  Create a new **branch** (`git checkout -b feature/your-amazing-feature`).
+3.  Commit your changes (`git commit -m 'Add some amazing feature'`).
+4.  Push to the branch (`git push origin feature/your-amazing-feature`).
+5.  Open a **Pull Request**.
 
-Create a new branch (git checkout -b feature/your-amazing-feature).
+Please read our `CONTRIBUTING.md` (coming soon) for more details on our code of conduct and the process for submitting pull requests.
 
-Commit your changes (git commit -m 'Add some amazing feature').
+## 📜 License
 
-Push to the branch (git push origin feature/your-amazing-feature).
+This project is proudly open-source and dual-licensed under the **[MIT License](LICENSE-MIT)** and **[Apache 2.0 License](LICENSE-APACHE)**.
 
-Open a Pull Request.
+## 👥 Meet The Team
 
-Please read our CONTRIBUTING.md (coming soon) for more details on our code of conduct and the process for submitting pull requests.
+*   **Naim Hussain** ([@NaimHussain](https://github.com/NaimHussain)) - *Blockchain Architect*
+*   **Ibrahim Rabiu** ([@alhibb](https://github.com/alhibb)) - *Full-Stack Web3 Innovator*
+*   **Biu Ali Dauda** ([@AliDauda14](https://github.com/AliDauda14)) - *Full-Stack & AI Specialist*
+*   **Muhammad Hamza** ([@hamzadev-CODES](https://github.com/hamzadev-CODES)) - *AI & Web3 Trailblazer*
 
-📜 License
-
-This project is proudly open-source and dual-licensed under the MIT License and Apache 2.0 License.
-
-👥 Meet The Team
-
-Naim Hussain (@NaimHussain) - Blockchain Architect
-
-Ibrahim Rabiu (@alhibb) - Full-Stack Web3 Innovator
-
-Biu Ali Dauda (@AliDauda14) - Full-Stack & AI Specialist
-
-Muhammad Hamza (@hamzadev-CODES) - AI & Web3 Trailblazer
-
+---
 <p align="center">
-Follow our journey and help us build the future of professional identity!
+  Follow our journey and help us build the future of professional identity!
 </p>
